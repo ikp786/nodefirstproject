@@ -1,0 +1,1 @@
+module.exports = "mongodb+srv://avenger:Khan@786@cluster0.cr3fp.mongodb.net/jploft?retryWrites=true&w=majority";
